@@ -13,3 +13,8 @@ I also worked on the the Javascript 30 course by Wes Bos. I project I worked on 
 I picked back up on the JS30 course. This was the Ajax type ahead. I also continued on the freeCodeCamp. I was also researching wordpress and php. I want to start working on stadic websites for small business in my area. 
 <br>
 # 1/4/20
+<br> 
+Started going back to the fundamentals of JavaScript just to hammer on the basics. I really want to understand everything a good scale.I also might go back to html & css to get my understanding of those both at a deeper level. So I'm going to get a course to help dive that home. So today mainly working on javascript basics and html and css going into a deeper learning. Made a new repo for all my coding practices for Jan 2020. Hopefully will be doing one of these each month to sharpen my skills because you have to do some drills before you head to the game. Happy NFL wildcard weekend!
+<br>
+# 1/5/2020
+<br>
