@@ -10,3 +10,6 @@ I also worked on the the Javascript 30 course by Wes Bos. I project I worked on 
 <br>
 # 1/3/20
 <br>
+I picked back up on the JS30 course. This was the Ajax type ahead. I also continued on the freeCodeCamp. I was also researching wordpress and php. I want to start working on stadic websites for small business in my area. 
+<br>
+# 1/4/20
