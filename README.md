@@ -20,7 +20,13 @@ Started going back to the fundamentals of JavaScript just to hammer on the basic
 <br>
 Hey the pats lost, which is good! Derrick Henry is amazing. I worked on two projects for the javascript 30 course. Didn't get to code as much as I wanted to. Hopefully I get to work on some more javascript 2moro. I'm also looking into doing a treehouse techdegree of a udacity program. Won't do those for a few months since I want to work on the basics a bit more. 
 <br>
-# 1/6/2019 8/100
+# 1/6/2020 8/100
 <br> 
 Worked on the Javascript 30. Since starting I haven't missed a day of that yet. Which goes along with my 100 days of code challenge. Which I'm on day 8 of. I also started back on working on the budget app I started a while ago and want to finish this week. I have some de-bugging to do on the stuff I have done on it. I might just finished up the code and then debug so I can learn some de-bugging tips from online.  
 <br>
+# 1/7/2020 9/100
+<br> Writing all this out as I'm doing it. I'm working on my second portfolio website. My first one was a basic one based on the freeCodeCamp one they have you do. I'm hoping to finish that today but might have to flow into 2more. I have to keep up on my js30 class, I don't want to miss a day of that so I will be doing on of the shorter ones today. The one I choose to do was working on key sequence detenction (aka the konami code). I'm taking a break from my budget app since that's kinda melting my brain at the moment. I will get that done by the end of the week though. 
+<br> 
+# 1/8/2020 10/100
+<br> 
+Doubel digits of 100 days of code! Gaining momentum now. 
