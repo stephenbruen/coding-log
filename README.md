@@ -29,4 +29,4 @@ Worked on the Javascript 30. Since starting I haven't missed a day of that yet. 
 <br> 
 # 1/8/2020 10/100
 <br> 
-Doubel digits of 100 days of code! Gaining momentum now. 
+Doubel digits of 100 days of code! Gaining momentum now. worked on my portfolio site a bit more. Hopefully will finish it all up 2moro. I got mainly everything done, just need to clean it up a bit. This project taught me a bit more about grid and media queries which should help my css knowledge. I really want to dive deeper into css and html for the rest of jan. I will still be doing some js so I don't forget everything I've learned thus far. I might get a class on Sass since that might be a good thing to learn. I didn't get to a JS30 module today though. Work went way longer than I thought it would, 2moro should be similar in my work schedule but going to keep up coding and not missing a day!
