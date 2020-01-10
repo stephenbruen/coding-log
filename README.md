@@ -30,3 +30,10 @@ Worked on the Javascript 30. Since starting I haven't missed a day of that yet. 
 # 1/8/2020 10/100
 <br> 
 Doubel digits of 100 days of code! Gaining momentum now. worked on my portfolio site a bit more. Hopefully will finish it all up 2moro. I got mainly everything done, just need to clean it up a bit. This project taught me a bit more about grid and media queries which should help my css knowledge. I really want to dive deeper into css and html for the rest of jan. I will still be doing some js so I don't forget everything I've learned thus far. I might get a class on Sass since that might be a good thing to learn. I didn't get to a JS30 module today though. Work went way longer than I thought it would, 2moro should be similar in my work schedule but going to keep up coding and not missing a day!
+<br>
+# 1/9/20 11/100
+<br>
+Had a long day at work today! got to finish up the outline of my portfolio and need to add somes stuff to change it up and add in my projects. I will change it from time to time. I also need to figure out why my javascript isn't loading into my page. For some reason when I click it doesn't work which is odd. I'm not sure what's the next thing I want to work on. I think I want to dive into more html and css. So i might start my course on sass or I'll do the start of the bootcamp so I can get more practice in.
+<br>
+# 1/10/20 12/100
+<br>
