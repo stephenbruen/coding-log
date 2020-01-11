@@ -37,3 +37,10 @@ Had a long day at work today! got to finish up the outline of my portfolio and n
 <br>
 # 1/10/20 12/100
 <br>
+I went over some array and else / else if / if / for / while. I worked on the fizzbuzz problem. I feel like going over basics over and over again is deeping my understanding of javascript. I think building this foundation is going to be good in the long run. I should be doing the same stuff over and over until I can expalin it to anyone. I had some of that happen today where I knew what the teacher was going to say before she explained it.
+<br>
+# 1/11/20 12/100
+<br>
+I'm working on my portfolio page again, kinda updating it all. I also want to add a section to it. I'm not sure what I want to add to it. I'm also going back to my bootcamp udemy course to practice more Javascript. I may also touch on freeCodeCamp aswell today. My nfl picks are 49ers, packers, chiefs, ravens.
+<br>
+# 1/12/20 13/100
