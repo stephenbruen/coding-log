@@ -44,3 +44,6 @@ I went over some array and else / else if / if / for / while. I worked on the fi
 I'm working on my portfolio page again, kinda updating it all. I also want to add a section to it. I'm not sure what I want to add to it. I'm also going back to my bootcamp udemy course to practice more Javascript. I may also touch on freeCodeCamp aswell today. My nfl picks are 49ers, packers, chiefs, ravens.
 <br>
 # 1/12/20 13/100
+<br>
+Today I really had a lack of motivation to code. I'm not really sure what sprung that on.. What I did today was some freeCodeCamp and working on the udemy course I have. they're mainly going over DOM which I had an okay idea of and want to dive deeper into it.
+<br>
