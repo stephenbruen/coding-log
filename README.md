@@ -47,3 +47,9 @@ I'm working on my portfolio page again, kinda updating it all. I also want to ad
 <br>
 Today I really had a lack of motivation to code. I'm not really sure what sprung that on.. What I did today was some freeCodeCamp and working on the udemy course I have. they're mainly going over DOM which I had an okay idea of and want to dive deeper into it.
 <br>
+# 1/13/20 14/100
+<br>
+Yesterday and today I made a ton of progess on freeCodeCamp. I finished Bootstrap, Jquery, and Sass sections in the Front End Lib section. The next is react which I'm going to hold off from it for now, I don't feel super good about javascript so I don't want to start a framework just yet. I'm going to to finish up the javascript section first.
+<br>
+#1/14/20 15/100
+<br>
