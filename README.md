@@ -53,3 +53,5 @@ Yesterday and today I made a ton of progess on freeCodeCamp. I finished Bootstra
 <br>
 #1/14/20 15/100
 <br>
+Worked on more freecodecamp. I had a long day of work today so not a ton of coding. I hope to finish all of the debugging section today. I've be doing good at fcc. I want to finsih the javascript section in the next two weeks hopefully.
+<br>
