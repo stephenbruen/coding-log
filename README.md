@@ -55,3 +55,6 @@ Yesterday and today I made a ton of progess on freeCodeCamp. I finished Bootstra
 <br>
 Worked on more freecodecamp. I had a long day of work today so not a ton of coding. I hope to finish all of the debugging section today. I've be doing good at fcc. I want to finsih the javascript section in the next two weeks hopefully.
 <br>
+# 1/15/20 16/100
+<br>
+Worked on more freeCodeCamp today. I mainly worked on the data structures and react portion. I want to finsh these certs in the next two months. I need to study for my mta exam so I may have to focus a bit more on that coming up on sunday. It goes over html, css, javascript and app life cycle. I will have to study for that since it cost me out of pocket and I have two tries for $80+ so I have to take it serious. 
