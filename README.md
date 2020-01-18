@@ -39,7 +39,7 @@ Had a long day at work today! got to finish up the outline of my portfolio and n
 <br>
 I went over some array and else / else if / if / for / while. I worked on the fizzbuzz problem. I feel like going over basics over and over again is deeping my understanding of javascript. I think building this foundation is going to be good in the long run. I should be doing the same stuff over and over until I can expalin it to anyone. I had some of that happen today where I knew what the teacher was going to say before she explained it.
 <br>
-# 1/11/20 12/100
+# 1/11/20 13/100
 <br>
 I'm working on my portfolio page again, kinda updating it all. I also want to add a section to it. I'm not sure what I want to add to it. I'm also going back to my bootcamp udemy course to practice more Javascript. I may also touch on freeCodeCamp aswell today. My nfl picks are 49ers, packers, chiefs, ravens.
 <br>
@@ -47,20 +47,21 @@ I'm working on my portfolio page again, kinda updating it all. I also want to ad
 <br>
 Today I really had a lack of motivation to code. I'm not really sure what sprung that on.. What I did today was some freeCodeCamp and working on the udemy course I have. they're mainly going over DOM which I had an okay idea of and want to dive deeper into it.
 <br>
-# 1/13/20 14/100
+# 1/13/20 15/100
 <br>
 Yesterday and today I made a ton of progess on freeCodeCamp. I finished Bootstrap, Jquery, and Sass sections in the Front End Lib section. The next is react which I'm going to hold off from it for now, I don't feel super good about javascript so I don't want to start a framework just yet. I'm going to to finish up the javascript section first.
 <br>
-#1/14/20 15/100
+#1/14/20 16/100
 <br>
 Worked on more freecodecamp. I had a long day of work today so not a ton of coding. I hope to finish all of the debugging section today. I've be doing good at fcc. I want to finsih the javascript section in the next two weeks hopefully.
 <br>
-# 1/15/20 16/100
+# 1/15/20 17/100
 <br>
 Worked on more freeCodeCamp today. I mainly worked on the data structures and react portion. I want to finsh these certs in the next two months. I need to study for my mta exam so I may have to focus a bit more on that coming up on sunday. It goes over html, css, javascript and app life cycle. I will have to study for that since it cost me out of pocket and I have two tries for $80+ so I have to take it serious.
 <br>
-# 1/17/20 17/100
+# 1/17/20 18/100
 <br> 
 Today I worked on studying for my MTA test. This envoles looking at html,css,javascript. This test seems to go over basics and having a deep understanding of the basics. I'm going to study over the next week and take my first try next week before the end of the month. I also worked on fcc on some stuff. 
 <br>
-# 1/18/20 18/100
+# 1/18/20 19/100
+<br>
