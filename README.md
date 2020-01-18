@@ -57,4 +57,10 @@ Worked on more freecodecamp. I had a long day of work today so not a ton of codi
 <br>
 # 1/15/20 16/100
 <br>
-Worked on more freeCodeCamp today. I mainly worked on the data structures and react portion. I want to finsh these certs in the next two months. I need to study for my mta exam so I may have to focus a bit more on that coming up on sunday. It goes over html, css, javascript and app life cycle. I will have to study for that since it cost me out of pocket and I have two tries for $80+ so I have to take it serious. 
+Worked on more freeCodeCamp today. I mainly worked on the data structures and react portion. I want to finsh these certs in the next two months. I need to study for my mta exam so I may have to focus a bit more on that coming up on sunday. It goes over html, css, javascript and app life cycle. I will have to study for that since it cost me out of pocket and I have two tries for $80+ so I have to take it serious.
+<br>
+# 1/17/20 17/100
+<br> 
+Today I worked on studying for my MTA test. This envoles looking at html,css,javascript. This test seems to go over basics and having a deep understanding of the basics. I'm going to study over the next week and take my first try next week before the end of the month. I also worked on fcc on some stuff. 
+<br>
+# 1/18/20 18/100
