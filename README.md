@@ -65,3 +65,7 @@ Today I worked on studying for my MTA test. This envoles looking at html,css,jav
 <br>
 # 1/18/20 19/100
 <br>
+I worked on working my mta cert. So just watched some videos on what on the test then looking over my notes on html,css, and javascript
+<br>
+# 1/19/20 20/100
+<br>
