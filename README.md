@@ -69,3 +69,5 @@ I worked on working my mta cert. So just watched some videos on what on the test
 <br>
 # 1/19/20 20/100
 <br>
+I'm working on grid and flex box stuff today. i hope to finish this full resturant website here shortyl.
+<br>
