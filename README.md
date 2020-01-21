@@ -71,3 +71,9 @@ I worked on working my mta cert. So just watched some videos on what on the test
 <br>
 I'm working on grid and flex box stuff today. i hope to finish this full resturant website here shortyl.
 <br>
+# 1/20/20 21/100
+<br>
+Today i finished up my grid prject. I just had to touch up everything a bit. I also started on my own project it's going to be a website for call of duty league. I'm just figuring out everything with it right now. Mainly getting the html down on it. I also did some freecodecamp things today.
+<br>
+# 1/21/20 22/100
+<br>
