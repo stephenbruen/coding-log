@@ -77,3 +77,5 @@ Today i finished up my grid prject. I just had to touch up everything a bit. I a
 <br>
 # 1/21/20 22/100
 <br>
+today i taught my junior robotics class. We made a fly that flies around and they coded it which controlled the speed and direction of the plane. I also did some more studying for my mta cert.
+<br>
