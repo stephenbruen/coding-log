@@ -79,3 +79,10 @@ Today i finished up my grid prject. I just had to touch up everything a bit. I a
 <br>
 today i taught my junior robotics class. We made a fly that flies around and they coded it which controlled the speed and direction of the plane. I also did some more studying for my mta cert.
 <br>
+# 1/22/20 23/100
+<br>
+Today I did more test prep for MTA 98-375. Did some practice test and watched a video to learn some more basics. Learn some more html5 things I had no clue of. Mainly tables,asides, forms and much more. Some of this I knew but it went more in depth into in.
+<br>
+# 1/23/20 24/100
+<br>
+
