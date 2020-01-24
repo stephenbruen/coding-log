@@ -85,4 +85,7 @@ Today I did more test prep for MTA 98-375. Did some practice test and watched a 
 <br>
 # 1/23/20 24/100
 <br>
-
+Today I did more test prep and practice exams. I'm hoping to take my first try at the test next week. I'll have two tries. I want to use my first try to learn the process of the test. I want to poistion my self to pass the first time but I will have a second attempt so hopefully that takes some pressure off me a bit. I've gotten bad test jitters recently maybe because I haven't taken a ton of test recently.
+<br>
+# 1/24/20 25/100
+<br>
