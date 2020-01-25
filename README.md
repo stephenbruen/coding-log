@@ -89,3 +89,7 @@ Today I did more test prep and practice exams. I'm hoping to take my first try a
 <br>
 # 1/24/20 25/100
 <br>
+I worked on my mta course again. i also looked into salesforce and did some training there on building apps on their plateform.
+<br>
+# 1/25/20 26/200
+<br>
