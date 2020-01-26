@@ -93,3 +93,5 @@ I worked on my mta course again. i also looked into salesforce and did some trai
 <br>
 # 1/25/20 26/200
 <br>
+I did some more studying for my mta class. I feel good about taking the test some time within the next two weeks.
+<br>
