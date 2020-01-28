@@ -91,7 +91,17 @@ Today I did more test prep and practice exams. I'm hoping to take my first try a
 <br>
 I worked on my mta course again. i also looked into salesforce and did some training there on building apps on their plateform.
 <br>
-# 1/25/20 26/200
+# 1/25/20 26/100
 <br>
 I did some more studying for my mta class. I feel good about taking the test some time within the next two weeks.
+<br>
+# 1/26/20 0/100
+<br> 
+Habits are some times meant to be broken. I failed today and need to restart my 100 days. I'm not cheating this challenge. So hopefully will get back on track 2moro.
+<br>
+# 1/27/20 1/100
+<br>
+Today I coded a bit mainly focusing on my MTA cert. I also coded a little bit on my own. I found a good youtube channel called COdegrid
+<br>
+# 1/28/20 2/100
 <br>
