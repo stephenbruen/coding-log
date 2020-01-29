@@ -105,3 +105,7 @@ Today I coded a bit mainly focusing on my MTA cert. I also coded a little bit on
 <br>
 # 1/28/20 2/100
 <br>
+I'm getting the juice back to coding. The mta studying is very boring I hope to take the test this saturday. Today I actually started the website I've been wanting to make. A cod league website, hoping to turn it into a blog eventually. The home page is coming together. I'm sorta happy with how it's turning out. 
+<br>
+# 1/29/20 3/100
+<br>
